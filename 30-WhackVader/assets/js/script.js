@@ -32,7 +32,7 @@ function peep() {
         
         if (!timeUp) peep();
 
-}, time);
+    }, time);
 }
 
 function startGame() {
